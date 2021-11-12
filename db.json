@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "Articles/20797647",
+    "_key": "20797647",
+    "_rev": "_c9-YQqS---",
+    "authorCategory": [
+      "Home Security",
+      "Home CCTV installation & repairs",
+      "Electricians"
+    ],
+    "authorId": "89mvjGwuqvcKyooy1SgyKCOVW682",
+    "authorName": "CCTV CAMERA",
+    "authorPic": "https://firebasestorage.googleapis.com/v0/b/feitango.appspot.com/o/users%2F89mvjGwuqvcKyooy1SgyKCOVW682%2FprofilePic%2FuserProfile_17e98401-4186-4ce5-a3c2-fa00a2ee2270.jpg?alt=media&token=c0bf58dd-a501-4060-8346-5e4cbe2913fa",
+    "body": "CCTV CAMERA Online",
+    "categoryId": "",
+    "contentType": 0,
+    "exApproved": true,
+    "exHasCategory": true,
+    "exStatus": true,
+    "mediaType": "",
+    "mediaUrl": "https://firebasestorage.googleapis.com/v0/b/feitango.appspot.com/o/postMedia%2F89mvjGwuqvcKyooy1SgyKCOVW682%2Fimage%2F1631820850529cacheimage_cropper_1631820833971.jpg?alt=media&token=7abc154c-4542-4a71-b907-21a05b84fbe6",
+    "published": true,
+    "status": true,
+    "summary": "",
+    "timestamp": 1631820855992,
+    "title": "...",
+    "disabledDescription": "",
+    "subMedia":[
+  {
+      "mediaType": "image",
+      "mediaUrl": "https://firebasestorage.googleapis.com/v0/b/feitango.appspot.com/o/postMedia%2F89mvjGwuqvcKyooy1SgyKCOVW682%2Fimage%2F1631820850529cacheimage_cropper_1631820833971.jpg?alt=media&token=7abc154c-4542-4a71-b907-21a05b84fbe6",
+   ,
+    
+      "description": "some wheer",
+      "type": '',
+      "id": 12121,
+    },
+      {
+      "mediaType": "image",
+      "mediaUrl": "https://instagram.fdar9-1.fna.fbcdn.net/v/t51.2885-15/e35/256846793_1230290311129313_8208750771576925477_n.jpg?_nc_ht=instagram.fdar9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=mz07UFpAqpYAX_IWb9E&edm=AIQHJ4wBAAAA&ccb=7-4&oh=ee12e0c9c1ea8d3d2c41e76d2fd20bb4&oe=6195ED49&_nc_sid=7b02f1&ig_cache_key=MjcwNTMwODM5MzMxNjQ0MjcyMg%3D%3D.2-ccb7-4",
+      "description": "nan turkish vaa pendeza",
+      "type": "image",
+      "id": 1213,
+    } ,
+    {
+      "mediaType": "video",
+      "mediaUrl": "https://instagram.fdar6-1.fna.fbcdn.net/v/t50.2886-16/256764285_311194400830211_257903812147024314_n.mp4?_nc_ht=instagram.fdar6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cVNqO8VLJo0AX-hcumL&edm=AABBvjUBAAAA&ccb=7-4&oe=61910A54&oh=8101e2082f5d5f5ce9136497f5507d5b&_nc_sid=83d603",
+      "description": "nan turkish vaa pendeza",
+      "type": "image",
+      "id": 1213,
+    }
+]
+ 
+  },]
